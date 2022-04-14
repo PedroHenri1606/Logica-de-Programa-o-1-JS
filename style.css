@@ -1,0 +1,27 @@
+.enviar {
+    margin: 10px;
+    width: 19.5%;
+    padding: 10px;
+    background-color: orange;
+    color: white;
+    font-weight: bold;
+    font-size: 18px;
+    border: none;
+    border-radius: 5px;
+    transition: 1s;
+    cursor: pointer;
+}
+
+.enviar:hover {
+    animation-delay: (1);
+    transform: scale(1.05);
+}
+
+.form {
+    font-size: 15px;
+    width: 18%;
+    text-align: center;
+    padding: 10px;
+    display: block;
+    margin: 10px;
+}
